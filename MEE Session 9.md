@@ -59,4 +59,19 @@ Analysis of the data
 - Tax enables a country to provide such benefits
 
 ### Effects of Change in Fiscal Policy
-- delta Y = 1/1-c(1-t) * delta G = alpha * delta G
+> delta Y = 1/1-c(1-t) * delta G = alpha * delta G
+- delta Y = change in income
+- delta G = change in govt spending
+- alpha = multiplier
+
+- Suppose Gvt incr TR
+- Gvt has 500 cr to stimulate demand in the country
+- Option 1: Use G
+	- if multiplier = 5 the 500 Cr becomes 2500 Cr
+	- buy 500 cr worth of trucks from the automotive sector
+- Option 2: Use TR
+	- give 500 Cr to bank accounts
+	- people save 20%
+	- 400 Cr left for circulation
+
+> G Route is better than TR
