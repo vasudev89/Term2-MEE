@@ -54,6 +54,7 @@ Analysis of the data
 	- Confidence Level
 
 ### Income Taxes as an Automatic Stabilizer
+- Automatic Stabilizer: mechanism in the economy that automatically (without case by case govt intervention) reduces the amount by which o/p changes in response to a change in autonomous demand
 - Part of developed countries(US)
 - Low employment = Govt Benefits which control reduction in consumption
 - Tax enables a country to provide such benefits
