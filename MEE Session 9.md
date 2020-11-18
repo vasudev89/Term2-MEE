@@ -16,6 +16,8 @@ Key Points:
 		- Uncertainty
 	- Government Expenditure
 	- Taxes
+	- Fiscal Policy in India or other country
+	- Fiscal Deficit
 
 Analysis of the data
 - Statistics may be used
@@ -25,4 +27,4 @@ Analysis of the data
 	- 2008 crisis
 
 - Prepare Synopsis of Project
-- Objectives + Outcome expected
+- Introduction + Objectives + Motivation + Data/Model(if applicable) + Outcome expected
