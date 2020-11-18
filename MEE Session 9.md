@@ -75,4 +75,27 @@ Analysis of the data
 	- people save 20%
 	- 400 Cr left for circulation
 
-> G Route is better than TR
+> G Route is better than TR since multiplier helps enhance value more than TR
+
+- Multiplier affected by Taxes
+
+## Types of Deficit/Gvt Budget
+- Surplus
+- Deficit
+	- Revenue = Total Exp - Tot Rev
+	- Fiscal = Total Exp - Tot Receipts excluding borrowings
+	- Primary = Fiscal deficit - Interest Payment
+
+- Gvt Budget:
+	- Both accounts have receipt and exp
+	- Revenue Acct
+		- Taxes - such as toll taxes
+		- Wages/Salary
+		- Will not affects assets
+		- Profits made
+		- Expenses Made
+	- Capital Acct:
+		- Effect on assets
+		- Disinvestment -> Selling companies/assets
+		- Borrowing: Loan payment
+		- Loan Disbursement
