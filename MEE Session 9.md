@@ -112,4 +112,26 @@ Analysis of the data
 - No specific threshold for positive/negative classification
 	- Varies by country
 	- Varies by regions in a country
-	
+
+#### Question: Fiscal Deficit = Fiscal Debt. How to tackle the pblm?
+- In India, we dont have much space
+- Borrowing from foreign countries => risky
+- China and Japan can borrow from foreing country since they have assets and capital
+- Depends on kind of debt: long, short, medium
+- Figures out mechanisms to pay
+
+#### Question: Surplus is also not good for Developing Countries like India?
+- Gvt needs to spend
+- Should not save too much
+- Example: North East region needs infra support
+
+### Budget Surplus(BS) = tY - G - TR
+
+#### Question: What will happen to BS if G rises?
+- if G goes up, o/p will incr, delta Y = alpha * delta G
+- Some part will come as tax collection, but not entirely
+- Stimulus given, BS will go down
+- Fiscal deficit will go up
+
+## Software Discussion
+- STATA Software
