@@ -135,3 +135,8 @@ Analysis of the data
 
 ## Software Discussion
 - STATA Software
+
+## Money Factor
+- Money plays a central role in the determination of income and employment
+	- Interest rates are a significant detrminant of aggregate spending -> RBI controls the money supply in India
+	- The stock of money, interest rates, and RBI were noticeably absent from the model developed in the last chapter
