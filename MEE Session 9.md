@@ -82,7 +82,7 @@ Analysis of the data
 ## Types of Deficit/Gvt Budget
 - Surplus
 - Deficit
-	- Revenue = Total Exp - Tot Rev
+	- Revenue = Total Revenue Exp - Tot Rev receipts
 	- Fiscal = Total Exp - Tot Receipts excluding borrowings
 	- Primary = Fiscal deficit - Interest Payment
 
@@ -99,3 +99,17 @@ Analysis of the data
 		- Disinvestment -> Selling companies/assets
 		- Borrowing: Loan payment
 		- Loan Disbursement
+
+## Fiscal Deficit Trend:
+- Declining Trend for FD, RD, PD
+- High Growth: Deficit Decreases
+- Crisis: Deficit Rises
+- Less o/p = less tax collection => Revenue will fall short
+- Expenditure rises
+- Stimulus needs to be provided by the gvt
+- 2003 to 2008: Deficit was declining strongly
+- 2008: Crisis => Deficit rose significantly
+- No specific threshold for positive/negative classification
+	- Varies by country
+	- Varies by regions in a country
+	
