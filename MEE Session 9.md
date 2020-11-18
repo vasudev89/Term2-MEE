@@ -29,3 +29,9 @@ Analysis of the data
 
 - Prepare Synopsis of Project
 - Introduction + Objectives + Motivation + Data/Model(if applicable) + Outcome expected
+
+- Group Projects
+ - Max 4 students per group
+ - Individual student is also ok
+ - Project topic to be Verified
+ - Group formation by CoCo
