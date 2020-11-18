@@ -18,6 +18,7 @@ Key Points:
 	- Taxes
 	- Fiscal Policy in India or other country
 	- Fiscal Deficit
+	- Comparative Ananlysis with some other country
 
 Analysis of the data
 - Statistics may be used
