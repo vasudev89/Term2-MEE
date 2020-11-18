@@ -12,6 +12,8 @@ Key Points:
 	- Monteroy Policy
 	- Inflation
 	- Trade
+	- Exchange rate
+		- Uncertainty
 	- Government Expenditure
 	- Taxes
 
@@ -22,3 +24,5 @@ Analysis of the data
 	- 1997 crisis
 	- 2008 crisis
 
+- Prepare Synopsis of Project
+- Objectives + Outcome expected
