@@ -56,3 +56,5 @@
 - Eq 1: Abar + c(1-t)Y - b * i1
 - Eq 2: Abar + c(1-t)Y - b * i2
 - i1 and i2 are int rates
+<img src="https://github.com/vasudev89/Term2-MEE/blob/master/IS%20Curve.jpeg">
+- Image by Gomish
