@@ -37,3 +37,22 @@
 - Theoretical Eq: I = Ibar - bi where b >0 => b = responsiveness of invst spending to the int rate
 - Emperical Eq: I = Ibar - bi + e => Actual, e is error
 - Negative slope reflects assumption that a reduction in i increases the qty of I
+
+## The Interest Rate and AD: The IS Curve
+- Need to modify the AD func of the last chapter to reflect the new planned invst spend schedule
+- AD = C + I + G + NX = Cbar +c * TRbar + c(1-t)Y + (Ibar - bi) + Gbar + NXbar = Abar + c(1-t)Y -bi
+- bar is applied on a variable when it is an autonomous factor: We cannot correctly determine it
+- An inc in i reduces AD for a given level of income
+
+## Understanding Eqns
+- Y = f(X,Z,M)
+- Y is indogenous factor, X,Z,M are extrogenous factors 
+- if X = f(Z,M) then, both Y and X are indogenous
+
+## IS Curve Definition
+- AD = Abar + c(1-t)Y - bi
+- Curve of I vs i: plot points for i vs I
+- if i decreases I will inc
+- Eq 1: Abar + c(1-t)Y - b * i1
+- Eq 2: Abar + c(1-t)Y - b * i2
+- i1 and i2 are int rates
