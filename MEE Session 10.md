@@ -66,7 +66,7 @@
 ## Int Rate and AD: The IS Curve(Contd)
 
 - Benchmark Eq: Y = Abar + c(1-t)Y - b * i
-- Variant: Y = alphaG (Incomplete)
+- Variant: Y = alphaG\*(Abar - b\*i) (Incomplete)
 
 ## Slope of IS Curve
 - Knowing slope of IS curve is most imp
