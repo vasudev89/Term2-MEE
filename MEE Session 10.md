@@ -34,7 +34,7 @@
 - Invst is no longer treated as exogenous, but dependent upon IR
 - Invst is a function of Int Rate(Cost of Borrowing Money)
 - I = f(i) => I = invst, i = int rate
-- Theoretical Eq: I = Ibar - bi where b >0 => b = responsiveness of invst spending to the int rate
+- Theoretical Eq: I = Ibar - bi where b >0 => 
 - Emperical Eq: I = Ibar - bi + e => Actual, e is error
 - Negative slope reflects assumption that a reduction in i increases the qty of I
 
@@ -62,3 +62,18 @@
 ## Regression
 - Y = c + mX => Linear
 - Y = c + m1\*X + M2\*X^2 => also Linear(Determined by Coefficients m1 and m2 not on X and X^2)
+
+## Int Rate and AD: The IS Curve(Contd)
+
+- Benchmark Eq: Y = Abar + c(1-t)Y - b * i
+- Variant: Y = alphaG (Incomplete)
+
+## Slope of IS Curve
+- Knowing slope of IS curve is most imp
+- Effectiveness of Monetory Policy in country
+- Determinants:
+	- b = responsiveness of invst spending to the int rate
+	- if b is large, small change in int rate will magnify Invst significantly
+	- IS will tend to a horizontal line
+	- if b is small, large change in int rate will not affect Invst significantly
+	- IS will tend to a vertical line
