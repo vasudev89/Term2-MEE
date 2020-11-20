@@ -77,3 +77,5 @@
 	- IS will tend to a horizontal line
 	- if b is small, large change in int rate will not affect Invst significantly
 	- IS will tend to a vertical line
+	- Expansion of Demand will cause a rightward parallel shift in IS Curve
+	- Contraction of Demand will cause a leftward parallel shift in IS Curve
