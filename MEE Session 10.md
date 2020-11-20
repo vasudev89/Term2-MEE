@@ -58,3 +58,7 @@
 - i1 and i2 are int rates
 <img src="https://github.com/vasudev89/Term2-MEE/blob/master/IS%20Curve.jpeg">
 - Image by Gomish
+
+## Regression
+- Y = c + mX => Linear
+- Y = c + m1\*X + M2\*X^2 => also Linear(Determined by Coefficients m1 and m2 not on X and X^2)
