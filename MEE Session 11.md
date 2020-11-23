@@ -52,3 +52,19 @@
 - M/Price = Real Money Supply
 - Section 17-4 of Book
 - Liquidity Preference Theory: Keynes
+
+## LM Curve
+- identify mkt clearance for a given int rate = i1
+- identify mkt clearance for a given int rate = i2
+- LM Curve is positively sloped
+	- Inc in int rate income raises
+
+## Slope of LM Curve
+- Large k = Vertical LM Curve and Vice Versa
+- Large h = Horizontal LM Curve and Vice Versa
+
+## M/P = money supply and price
+
+## Position of LM Curve
+- Expansion in Money Supply = Rightward shift in LM Curve and vice versa
+- Similar to IS Curve
