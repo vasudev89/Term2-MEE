@@ -41,3 +41,8 @@
 - Open Mkt Ops: Buying & Selling Bonds
 - CRR(Cash Reserve Ratio): Proportion of Bank's Money to be maintained with Central Bank
 - Discount Rate: Banks can borrow from central bank at a given rate of int for a short-term
+	- Does not have collateral
+
+## Repo Rate: 
+- Repurchase Agreement Rate
+- Has collateral
