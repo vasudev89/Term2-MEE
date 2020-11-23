@@ -34,5 +34,10 @@
 		- L = f(Y,i) = kY - hi
 		- L = Demand for Money
 		- k = Sensitivity of L to change in Income
-		- h = Sensitivity of L to change in Int Rate
+		- h(speculative) = Sensitivity of L to change in Int Rate
 	- Demand & Supply for liquidity determination
+
+## Monetory Policy Control
+- Open Mkt Ops: Buying & Selling Bonds
+- CRR(Cash Reserve Ratio): Proportion of Bank's Money to be maintained with Central Bank
+- Discount Rate: Banks can borrow from central bank at a given rate of int for a short-term
