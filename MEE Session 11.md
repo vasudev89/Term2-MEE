@@ -46,3 +46,9 @@
 ## Repo Rate: 
 - Repurchase Agreement Rate
 - Has collateral
+
+## Interest Rate vs L with Y
+- Y(Income) is given
+- M/Price = Real Money Supply
+- Section 17-4 of Book
+- Liquidity Preference Theory: Keynes
