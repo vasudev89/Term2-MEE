@@ -18,4 +18,5 @@
 	- 9/11 led to a 12% fall in stock prices in 1 week and a huge rise in uncertainty
 	- Scandals @ Enron, WorldCom, and other corps led to stock price declines and a decline in trust and a rise in uncertainty
 	- Lower household wealth reduced C0 and higher ucnertainty reduced I0
-<img src="">
+<img src="https://github.com/vasudev89/Term2-MEE/blob/master/Pic%202.PNG">
+
