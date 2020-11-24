@@ -56,3 +56,5 @@ i = 6, Y = 3500
 
 - Inapplicability of Monetory Policy
 - Greece has sacrificed Monetory Policy since it's part of European Economic Union
+- For Monetory Policy a country must have it's own currency
+	- Panama and other Island Countries do not have a monetory policy since it depends on foreign currency 
