@@ -25,7 +25,6 @@
 - t = 0.25
 - I = 900 - 50i
 - Gbar = 800
-- L = 
 - Mbar/Pbar = 500
 
 IS => C + I + Gbar = Y
@@ -40,3 +39,20 @@ i = 6, Y = 3500
 - Monetory Policy has its initial impact mainly in the assets markets
 - Because the goods and assets markets are interconnected, both fiscal and monetory policies have effects on both the level of o/p and int rates
 
+## Monetory Policy
+- Money has a role on real economy as opposed to common belief
+- Change in money supply changes Level of Money impacting the o/p in the economy
+
+## Transmission Mechanism
+- Refer to PPT
+
+## The Liquidity Trap
+- Two extreme cases when effects of monetory policy on economy are studied
+	1. Liquity Trap: a situation in which public is prepared to hold whatever amount of money is supplied for any given int rate
+	2. LM curve is horizontal: changes in qty of money does not shift it
+		- Mon Policy has no impact on int rate/income -> mon policy is powerless
+		- Possibility of a liquidity trap at low int rates is a notion that grew out of the theories of English economist John Maynard Keynes
+		- Occurs when inflation is 0 or -ve
+
+- Inapplicability of Monetory Policy
+- Greece has sacrificed Monetory Policy since it's part of European Economic Union
