@@ -20,3 +20,23 @@
 	- Lower household wealth reduced C0 and higher ucnertainty reduced I0
 <img src="https://github.com/vasudev89/Term2-MEE/blob/master/Pic%202.PNG">
 
+## Numerical
+- C = 0.8(1-t)Y
+- t = 0.25
+- I = 900 - 50i
+- Gbar = 800
+- L = 
+- Mbar/Pbar = 500
+
+IS => C + I + Gbar = Y
+Thus, Y = 0.8(1-t)Y + 900 - 50i + 800
+
+LM => 500 = 0.25Y - 62.5i
+
+i = 6, Y = 3500
+
+## Monetory and Fiscal Policy
+- Fiscal policy has its initial impact in the goods market
+- Monetory Policy has its initial impact mainly in the assets markets
+- Because the goods and assets markets are interconnected, both fiscal and monetory policies have effects on both the level of o/p and int rates
+
