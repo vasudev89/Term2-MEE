@@ -10,4 +10,6 @@
 ## Revision of Previous Class
 - Increasing Price = Reduced Money Supply = LM will shift left-up
 - M/P2 < M/P1 = Y2 < Y1 while P1 > P2
-<img src="">
+<img src="https://github.com/vasudev89/Term2-MEE/blob/master/Pic%201.PNG">
+
+## 
